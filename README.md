@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Roid Robih</h1>
+<h1 align="center">Hi 👋, I'm Roid</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
 <img width="400" src="https://media.tenor.com/2Ly7dW_JqD0AAAAC/nino-gotoubun.gif" alt="" />
 
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=roid-obi&label=Profile%20views&color=0e75b6&style=flat" alt="roid-obi" /></p>
 
-- 💬 Ask me about **Anime, Manga&code** - 📫 How to reach me **roidrobih@gmail.com** - ⚡ Fun fact **I am funny**
+- 💬 Ask me about **Anime, Manga&code**
+- 📫 How to reach me **roidrobih@gmail.com**
+- ⚡ Fun fact **I am muak**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
