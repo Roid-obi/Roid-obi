@@ -5,7 +5,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=roid-obi&label=Profile%20views&color=0e75b6&style=flat" alt="roid-obi" /></p>
 
-- 💬 Ask me about **Anime, Manga&code**
+- 💬 Ask me about **Anime, Mim, Manga&code**
 - 📫 How to reach me **roidrobih@gmail.com**
 - ⚡ Fun fact **I am muak**
 
