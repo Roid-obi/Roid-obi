@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roid</h1>
-<h3 align="center">A passionate backend developer from Indonesia</h3>
+<h3 align="center">A passionate fullstack developer from Indonesia</h3>
 <img width="400" src="https://i.redd.it/srfzvzxj69d41.gif" alt="" />
 
 
