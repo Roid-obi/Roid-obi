@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roid</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
-<img width="400" src="https://i.redd.it/srfzvzxj69d41.gif" alt="" />
+<img width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fdiscover%2Farknight-gifs&psig=AOvVaw1VpRPSRL4fZoBrLQ-GeLhx&ust=1676094714278000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKi-2MGhiv0CFQAAAAAdAAAAABAY" alt="" />
 
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=roid-obi&label=Profile%20views&color=0e75b6&style=flat" alt="roid-obi" /></p>
