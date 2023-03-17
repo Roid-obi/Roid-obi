@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Roid Robih</h1>
-<h3 align="center">A passionate -- developer from Indonesia ia ==m firoy</h3>
+<h3 align="center">A passionate -- developer from Indonesia iam front end dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roid-obi&label=Profile%20views&color=0e75b6&style=flat" alt="roid-obi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roid-obi" alt="roid-obi" /></a> </p>
 
-- 📫 How to reach me **roidrobih@gmail.com**
+- 📫 How to reach me **roidrobih@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
