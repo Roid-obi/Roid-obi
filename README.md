@@ -31,8 +31,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roid-obi&show_icons=true&locale=en&layout=compact&bg_color=1a1a2e&text_color=ffffff&icon_color=1f8b4c&border_color=ffffff" alt="roid-obi" /></p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roid-obi&show_icons=true&locale=en&bg_color=1a1a2e&text_color=ffffff&icon_color=1f8b4c&border_color=ffffff" alt="roid-obi" /></p>
- -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roid-obi&show_icons=true&locale=en&bg_color=1a1a2e&text_color=ffffff&icon_color=1f8b4c&border_color=ffffff" alt="roid-obi" /></p>
+
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roid-obi&bg_color=1a1a2e&text_color=ffffff&icon_color=1f8b4c&border_color=ffffff" alt="roid-obi" /></p> -->
 
 <p>
