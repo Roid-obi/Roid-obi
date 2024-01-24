@@ -42,10 +42,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/FuQL3FykG-QAAAAC/zeta-vestia-zeta.gif"  />
-
-###
-
 <div align="left">
   <a href="https://www.instagram.com/roid_rob/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -65,7 +61,9 @@
 
 ###
 
-<br clear="both">
+<img align="right" height="150" src="https://media1.tenor.com/m/FuQL3FykG-QAAAAC/zeta-vestia-zeta.gif"  />
+
+###
 
 <img src="https://raw.githubusercontent.com/Roid-obi/Roid-obi/output/snake.svg" alt="Snake animation" />
 
