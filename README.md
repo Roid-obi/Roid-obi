@@ -8,7 +8,7 @@
 
 ###
 
-<div align="center">
+<div align="center" style="maxWidth:500px">
   <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
