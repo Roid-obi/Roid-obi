@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Roid and I'm a Front End Engineer, from Indonesia.</h2>
+<h2 align="center">Hi 👋! My name is Roid and I'm a Front End Engineer, from Indonesia.</h2>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<div align="center" style="maxWidth:500px">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
