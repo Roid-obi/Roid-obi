@@ -13,47 +13,47 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=github" height="38" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="38" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="38" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="38" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="38" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="38" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=styledcomponents" height="38" alt="styledcomponents logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="38" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="38" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="38" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="38" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="38" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="38" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="38" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="38" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jest" height="38" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="38" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="38" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="38" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="38" alt="yarn logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="38" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="37" alt="github logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=git" height="37" alt="git logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=html" height="37" alt="html5 logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=css" height="37" alt="css3 logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="37" alt="bootstrap logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="37" alt="tailwindcss logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=styledcomponents" height="37" alt="styledcomponents logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=php" height="37" alt="php logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="37" alt="laravel logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=postman" height="37" alt="postman logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=js" height="37" alt="javascript logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=ts" height="37" alt="typescript logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=react" height="37" alt="react logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="37" alt="nextjs logo"  />
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="37" alt="storybook logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=jest" height="37" alt="jest logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=bash" height="37" alt="bash logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="37" alt="mysql logo"  />
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="37" alt="npm logo"  />
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="37" alt="yarn logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="37" alt="vscode logo"  />
 </div>
 
 ###
