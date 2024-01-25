@@ -8,48 +8,52 @@
 
 ###
 
+<h3 align="center">Hi everyone!!..</h3>
+
+###
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="38" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="38" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="38" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="38" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="38" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="38" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=styledcomponents" height="35" alt="styledcomponents logo"  />
+  <img src="https://skillicons.dev/icons?i=styledcomponents" height="38" alt="styledcomponents logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="35" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="38" alt="php logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="35" alt="laravel logo"  />
+  <img src="https://skillicons.dev/icons?i=laravel" height="38" alt="laravel logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="35" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="38" alt="postman logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="38" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="38" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="38" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="38" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="35" alt="storybook logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="38" alt="storybook logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jest" height="35" alt="jest logo"  />
+  <img src="https://skillicons.dev/icons?i=jest" height="38" alt="jest logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="35" alt="bash logo"  />
+  <img src="https://skillicons.dev/icons?i=bash" height="38" alt="bash logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="38" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="35" alt="npm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="38" alt="npm logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="35" alt="yarn logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="38" alt="yarn logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="38" alt="vscode logo"  />
 </div>
 
 ###
@@ -77,6 +81,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Roid-obi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Roid-obi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roid-obi&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
