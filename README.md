@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/G0xX2JGsUjIAAAAC/texas-arknights.gif"  />
+  <img height="200" src="https://media1.tenor.com/m/XD4YSaRa3REAAAAC/arknights-texas.gif"  />
 </div>
 
 ###
