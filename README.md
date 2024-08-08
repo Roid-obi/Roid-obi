@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">Hi everyone!!..</h3>
+<h3 align="center">//</h3>
 
 ###
 
