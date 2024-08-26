@@ -60,6 +60,10 @@
   <img src="https://seeklogo.com/images/P/pnpm-logo-21DC828CD8-seeklogo.com.png" height="35" alt="pnpm logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=vscode" height="37" alt="vscode logo"  />
+  <img width="4" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/167px-Dart-logo-icon.svg.png?20220708094810" height="37" alt="dart logo"  />
+  <img width="4" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-flutter-logo-icon-download-in-svg-png-gif-file-formats--programming-language-coding-development-logos-icons-1720090.png?f=webp&w=256" height="37" alt="flutter logo"  />
 </div>
 
 ###
