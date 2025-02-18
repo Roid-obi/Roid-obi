@@ -57,7 +57,7 @@
   <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="37" alt="yarn logo"  />
   <img width="4" />
-  <img src="https://seeklogo.com/images/P/pnpm-logo-21DC828CD8-seeklogo.com.png" height="35" alt="pnpm logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Pnpm_logo.svg" height="35" alt="pnpm logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=vscode" height="37" alt="vscode logo"  />
   <img width="4" />
