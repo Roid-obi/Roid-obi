@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://media1.tenor.com/m/F38ZBRhgZ98AAAAC/texas-texas-the-omertosa.gif"  />
+  <img height="150" src="https://media.tenor.com/fGLI3stmkoMAAAAi/vestia-zeta-hololive.gif"  />
 </div>
 
 ###
