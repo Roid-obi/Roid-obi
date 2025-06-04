@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://media.tenor.com/fGLI3stmkoMAAAAi/vestia-zeta-hololive.gif"  />
+  <img height="150" src=""  />
 </div>
 
 ###
