@@ -5,7 +5,7 @@
   <img height="200" src="https://truth.bahamut.com.tw/artwork/202408/e97572a5decd000cc51ca07f73c4495a.GIF"  />
 </div>
 
-<br><br>
+<br>
 
 ## 💻 Tech Stack
 
@@ -14,7 +14,7 @@
   <img src="https://skillicons.dev/icons?i=github,git,html,css,bootstrap,tailwind,styledcomponents,php,laravel,postman,js,ts,react,nextjs,storybook,jest,bash,mysql,npm,yarn,pnpm,vscode,dart,flutter" alt="Tech Skills" />
 </div>
 
-<br><br>
+<br>
 
 ## 🌐 Social Media 
 
@@ -36,7 +36,7 @@
   </a>
 </div>
 
-<br><br>
+<br>
 
 ## 📊 Stats 
 
@@ -45,10 +45,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Roid-obi&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="GitHub Stats" />
 </div>
 
-<br><br>
 
-## 🎧 Recently Played on Spotify 
 
-<a href="https://open.spotify.com/user/31sjr7d6ko553lxpurmmcstch3ty">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sjr7d6ko553lxpurmmcstch3ty&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
