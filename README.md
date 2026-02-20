@@ -11,7 +11,7 @@
 
 <div align="left">
   <!-- Semua teknologi dalam satu baris -->
-  <img src="https://skillicons.dev/icons?i=github,git,html,css,bootstrap,tailwind,styledcomponents,php,laravel,postman,js,ts,react,nextjs,storybook,jest,bash,mysql,npm,yarn,pnpm,vscode,dart,flutter" alt="Tech Skills" />
+  <img src="https://skillicons.dev/icons?i=github,git,html,css,bootstrap,tailwind,styledcomponents,sass,php,laravel,postman,js,ts,react,nextjs,storybook,jest,bash,mysql,npm,yarn,pnpm,bun,vscode,dart,flutter,vue,firebase," alt="Tech Skills" />
 </div>
 
 <br>
