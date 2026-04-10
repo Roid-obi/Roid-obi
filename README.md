@@ -42,7 +42,6 @@
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=Roid-obi&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Roid-obi&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="GitHub Stats" />
 </div>
 
 
